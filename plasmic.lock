@@ -114,11 +114,6 @@
       "fileLocks": [
         {
           "assetId": "2ek6Cg6a7WkgAmyEDdQ7vg",
-          "type": "projectCss",
-          "checksum": "4d668d8f0d1558fd9e49451d8f71de56"
-        },
-        {
-          "assetId": "2ek6Cg6a7WkgAmyEDdQ7vg",
           "checksum": "58cb9a026f9670199a776d813e7c7aa3",
           "type": "globalContexts"
         },
@@ -196,6 +191,11 @@
           "type": "icon",
           "assetId": "I7XBc7t-n-Qt",
           "checksum": "4cda3203575b5dcdbc959688c9b7c972"
+        },
+        {
+          "assetId": "2ek6Cg6a7WkgAmyEDdQ7vg",
+          "type": "projectCss",
+          "checksum": "4d668d8f0d1558fd9e49451d8f71de56"
         }
       ],
       "codegenVersion": "0.0.3"
